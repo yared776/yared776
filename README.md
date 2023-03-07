@@ -1,8 +1,7 @@
-![yared776 header image](https://drive.google.com/file/d/1T0EmsiyapggLdKLxJ31s1FT3I5MnfIRX/view?usp=share_link)
+#Hello I'm Yared
 
-
-- 💻 Currently working on [Ethiopian Scout Association Website](https://github.com/yared776/esa) using React.
-- 📝 I am currently learning node.js.
+<!-- - 💻 Currently working on [Ethiopian Scout Association Website](https://github.com/yared776/esa) using React.-->
+- 📝 I am currently learning react and node.js
 - 📫 You can connect with me on [Twitter](https://www.twitter.com/yared776) and [LinkedIn](https://www.linkedin.com/in/yared776).
 
 <p align="center">
