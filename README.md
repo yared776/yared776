@@ -13,4 +13,4 @@
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
 <img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=140200"/>
   </p>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yared776&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=yared776&show_icons=true&theme=tokyonight" />
