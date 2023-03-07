@@ -14,3 +14,4 @@
 <img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=140200"/>
   </p>
 <img src="https://github-readme-stats.vercel.app/api?username=yared776&show_icons=true&theme=tokyonight" />
+<!--START_SECTION:activity-->
