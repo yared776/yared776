@@ -1,7 +1,7 @@
 <h1>Hello I'm Yared</h1>
 
 <!-- - 💻 Currently working on [Ethiopian Scout Association Website](https://github.com/yared776/esa) using React.-->
-- 📝 I am currently learning react and node.js
+- 📝 I am currently learning NextJS
 - 📫 You can connect with me on [Twitter](https://www.twitter.com/yared776) and [LinkedIn](https://www.linkedin.com/in/yared776).
 
 <p align="center">
